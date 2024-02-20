@@ -2,6 +2,10 @@ Rencana Belajar Pemrograman
 
 - Restful API
 - GIT
+- JS
 - Laravel
+ ^ Bisa menguasai terminal
+- CodeIgniter
+ ^ Bisa menguasai terminal
 - Bisa menguasai framework
 - Bismillah bisa magang
