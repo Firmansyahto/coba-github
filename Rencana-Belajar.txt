@@ -3,3 +3,4 @@ Rencana Belajar Pemrograman
 - Restful API
 - GIT
 - Laravel
+- Bismillah bisa magang
